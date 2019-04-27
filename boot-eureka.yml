@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://192.168.1.2:3306/boo_test?useSSL=False&useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC&allowPublicKeyRetrieval=true
     username: root
-    password: {cipher}AQCIoMuZ5vy/8V4Qorm9DFa25Sa92n4hh1aidPxc8yCbhdsMockTtohHwm+MOUCp3XYsmtD4If71Xrwdyxzwvnz5uOpqGA3JoJ6wIkToR/YbFcWKbPSwx3YqHMnvm3gz0iDn+x+o9cBVFWI7sNwdTr+ogTtNj13nFnwyycnd295Vrx9e1CeCjUlClXBvjuSL2psTFQ+lScg1wd/vyIw1imS11LNScExhImAEL2gakBP1qeLG/3ys4Cdg1RtgXan2AI51sFjwbBvK9NohCjtCLrLt+E0oUflqbvSIL5XSse+FkzyK8nDOJkKgPYh13MwCN98ODZMF7ZwRrQHFKqxWrnYXM9voNcj76kfZnp2HBuv+0ury0iNHEWkKV5DzKpjmHFg=
+    password: "{cipher}AQCIoMuZ5vy/8V4Qorm9DFa25Sa92n4hh1aidPxc8yCbhdsMockTtohHwm+MOUCp3XYsmtD4If71Xrwdyxzwvnz5uOpqGA3JoJ6wIkToR/YbFcWKbPSwx3YqHMnvm3gz0iDn+x+o9cBVFWI7sNwdTr+ogTtNj13nFnwyycnd295Vrx9e1CeCjUlClXBvjuSL2psTFQ+lScg1wd/vyIw1imS11LNScExhImAEL2gakBP1qeLG/3ys4Cdg1RtgXan2AI51sFjwbBvK9NohCjtCLrLt+E0oUflqbvSIL5XSse+FkzyK8nDOJkKgPYh13MwCN98ODZMF7ZwRrQHFKqxWrnYXM9voNcj76kfZnp2HBuv+0ury0iNHEWkKV5DzKpjmHFg="
     driver-class-name: com.mysql.cj.jdbc.Driver
     type: com.alibaba.druid.pool.DruidDataSource
     platform: mysql
